@@ -80,6 +80,7 @@ int main()
 	  if(count == 5)
 	  {
 		  cout << "You used all of your guesses, you lost the game" << endl;
+		  //Exit the loop
 		  break;
 	  }
 
